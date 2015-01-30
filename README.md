@@ -17,6 +17,6 @@ To work,
           (either run the command with 'sudo' or chmod the usb device)
 
 The program does not use arguments and produces two files :
-   - <NationalRegisterNumber>.html
-   - <NationalRegisterNumber>.jpg
-(note that is is unlawful to use the <NationalRegisterNumber> for any purpose without authorization)
+   - &lt;NationalRegisterNumber>.html
+   - &lt;NationalRegisterNumber>.jpg
+(note that is is unlawful to use the &lt;NationalRegisterNumber> for any purpose without authorization)
